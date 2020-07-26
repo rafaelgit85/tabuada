@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: O diretório intermediário (Debug\) contém arquivos compartilhados de outro projeto (prjCppTesteTabuada.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  main.cpp
+C:\Users\rafae\Desktop\Algorithm\Tabuada\tabuada\prjCppTesteTabuada\prjCppTesteTabuada\main.cpp(5,13): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  prjCppTesteTabuada.vcxproj -> C:\Users\rafae\Desktop\Algorithm\Tabuada\tabuada\prjCppTesteTabuada\Debug\prjCppTabuada.exe
